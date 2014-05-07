@@ -1,7 +1,9 @@
 ### Project Summary
 
 Step 1) Collect Twitter data on a certain product(s), namely games and
+
   1a) perform sentiment analysis and aim for good accuracy in correctly identifying the different sentiments
+  
   1b) get other metrics such as number of tweets, retweets, view counts etc.
 
 
