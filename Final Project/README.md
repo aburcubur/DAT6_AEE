@@ -61,11 +61,11 @@ Source:http://nltk.googlecode.com/svn/trunk/doc/book/ch06.html#document-classifi
 ### Bunch of sources:
 
 Twitter
-http://blogs.ischool.berkeley.edu/i290-abdt-s12/
-https://sites.google.com/site/miningtwitter/questions/sentiment/analysis
-http://www.slideshare.net/ajayohri/twitter-analysis-by-kaify-rais
-http://txcdk.unt.edu/iralab/sentiment_analysis
-http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
+- http://blogs.ischool.berkeley.edu/i290-abdt-s12/
+- https://sites.google.com/site/miningtwitter/questions/sentiment/analysis
+- http://www.slideshare.net/ajayohri/twitter-analysis-by-kaify-rais
+- http://txcdk.unt.edu/iralab/sentiment_analysis
+- http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
 
 
 http://text-processing.com/demo/sentiment/
